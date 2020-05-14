@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\desain_TA\bin\Debug\desain_TA.exe.config
+C:\Users\acer\source\repos\desain_TA\bin\Debug\desain_TA.exe
+C:\Users\acer\source\repos\desain_TA\bin\Debug\desain_TA.pdb
+C:\Users\acer\source\repos\desain_TA\obj\Debug\desain_TA.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\desain_TA\obj\Debug\desain_TA.Form1.resources
+C:\Users\acer\source\repos\desain_TA\obj\Debug\desain_TA.Properties.Resources.resources
+C:\Users\acer\source\repos\desain_TA\obj\Debug\desain_TA.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\desain_TA\obj\Debug\desain_TA.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\desain_TA\obj\Debug\desain_TA.exe
+C:\Users\acer\source\repos\desain_TA\obj\Debug\desain_TA.pdb
+C:\Users\acer\source\repos\desain_TA\obj\Debug\desain_TA.Form2.resources
