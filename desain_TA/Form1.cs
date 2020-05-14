@@ -113,9 +113,27 @@ namespace desain_TA
         private void isi_Click(object sender, EventArgs e)
         {
             float keluar;
+            string isi,isi2;
+            for (int i = 1; i <= 2; i++)
+            {
+                if (i == 1)
+                {
+                    isi = "Pengisisan saldo akan dikenakan pajak";
+                    buka.pesan(isi);
+                    buka.ShowDialog();
+                }
+                if (i == 2)
+                {
+                    isi2 = "Pajak sebesar Rp.10.000" ;
+                    buka.pesan(isi2);
+                    buka.ShowDialog();
+                } 
+            }
             nominal = float.Parse(saldo.Text);
             keluar = pajak(nominal);
             hasil.Text = Convert.ToString(keluar);
+
+
         }
 
         private void panel4_Click(object sender, EventArgs e)

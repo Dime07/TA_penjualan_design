@@ -19,7 +19,6 @@ namespace desain_TA
 
         public string pesan(string msg)
         {
-           
             string msg_klr;
             msg_klr= (message.Text = msg);
             return msg_klr;
